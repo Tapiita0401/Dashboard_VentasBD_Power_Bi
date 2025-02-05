@@ -42,6 +42,6 @@ Esta tabla compara el desempeño de ventas en distintos países entre los años 
 - KPI: Indica si la meta de ventas ha sido superada o no, con símbolos visuales para facilitar la interpretación.
 - Observaciones: Proporciona un estado detallado del rendimiento en cada país.
 
-El total de ventas ha aumentado de 658,388.75 en 2017 a 924,580.89 en 2018, lo que representa un crecimiento significativo. Sin embargo, algunos países como México, Finlandia y Noruega no lograron superar sus ventas anteriores, lo que indica posibles áreas de mejora en la estrategia de ventas de la empresa.
+El total de ventas ha aumentado de 658,388.75 en 2017 a 924,580.80 en 2018, lo que representa un crecimiento significativo. Sin embargo, algunos países como México, Finlandia y Noruega no lograron superar sus ventas anteriores, lo que indica posibles áreas de mejora en la estrategia de ventas de la empresa.
 
 Este análisis comparativo permite evaluar el éxito de las estrategias comerciales en cada país y tomar decisiones informadas para optimizar el rendimiento en mercados clave.
