@@ -6,7 +6,7 @@
 
 ## Introducción
 
-### Este dashboard interactivo ha sido desarrollado en Power BI para analizar el rendimiento de ventas de la empresa Northwind, una compañía especializada en la distribución de alimentos y bebidas a nivel internacional.
+Este dashboard interactivo ha sido desarrollado en Power BI para analizar el rendimiento de ventas de la empresa Northwind, una compañía especializada en la distribución de alimentos y bebidas a nivel internacional.
 
 Proporciona una visión analítica de las principales métricas de ventas, permitiendo evaluar el desempeño del negocio a través de múltiples dimensiones. Entre los análisis clave, se incluyen:
 
